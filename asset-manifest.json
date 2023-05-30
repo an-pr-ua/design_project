@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/design_project/static/css/main.5c06b3c0.css",
-    "main.js": "/design_project/static/js/main.4b657d2c.js",
+    "main.js": "/design_project/static/js/main.978c0f24.js",
     "static/js/787.dd9ad875.chunk.js": "/design_project/static/js/787.dd9ad875.chunk.js",
     "static/media/Raleway-Medium.ttf": "/design_project/static/media/Raleway-Medium.f42f0130676c0d1db5c8.ttf",
     "static/media/poppins-medium.ttf": "/design_project/static/media/poppins-medium.b59f6a636397975c5409.ttf",
@@ -11,11 +11,11 @@
     "static/media/OpenSans-SemiBold.ttf": "/design_project/static/media/OpenSans-SemiBold.d7261533b9a545ddc769.ttf",
     "index.html": "/design_project/index.html",
     "main.5c06b3c0.css.map": "/design_project/static/css/main.5c06b3c0.css.map",
-    "main.4b657d2c.js.map": "/design_project/static/js/main.4b657d2c.js.map",
+    "main.978c0f24.js.map": "/design_project/static/js/main.978c0f24.js.map",
     "787.dd9ad875.chunk.js.map": "/design_project/static/js/787.dd9ad875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c06b3c0.css",
-    "static/js/main.4b657d2c.js"
+    "static/js/main.978c0f24.js"
   ]
 }
