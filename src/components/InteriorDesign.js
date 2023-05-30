@@ -88,7 +88,10 @@ function InteriorDesign() {
         <div className="our-servis-icon">
           <a id="servis-change-style1" className="our-servis-card" href="">
             <div className="our-servis-interior1">
-              <img src="images/sr.png" alt="our-servis-interior" />
+              <img
+                src="https://an-pr-ua.github.io/design_project/images/sr.png"
+                alt="our-servis-interior"
+              />
               <div className="our-servis-card-text">
                 <h5>Interior Design1</h5>
                 <p>
@@ -146,8 +149,8 @@ function InteriorDesign() {
           <a id="servis-change-style5" className="our-servis-card" href="">
             <div className="our-servis-interior1">
               <img
-                id="https://an-pr-ua.github.io/design_project/servis-change-style5-img"
-                src="images/sr.png"
+                id="servis-change-style5-img"
+                src="https://an-pr-ua.github.io/design_project/images/sr.png"
                 alt="our-servis-interior"
               />
               <div className="our-servis-card-text">
