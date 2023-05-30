@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/design_project/static/css/main.5c06b3c0.css",
+    "main.js": "/design_project/static/js/main.900afab8.js",
+    "static/js/787.dd9ad875.chunk.js": "/design_project/static/js/787.dd9ad875.chunk.js",
+    "static/media/Raleway-Medium.ttf": "/design_project/static/media/Raleway-Medium.f42f0130676c0d1db5c8.ttf",
+    "static/media/poppins-medium.ttf": "/design_project/static/media/poppins-medium.b59f6a636397975c5409.ttf",
+    "static/media/poppins-semibold.ttf": "/design_project/static/media/poppins-semibold.5981b450a68d5134225b.ttf",
+    "static/media/OpenSans-Regular.ttf": "/design_project/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-Bold.ttf": "/design_project/static/media/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/design_project/static/media/OpenSans-SemiBold.d7261533b9a545ddc769.ttf",
+    "index.html": "/design_project/index.html",
+    "main.5c06b3c0.css.map": "/design_project/static/css/main.5c06b3c0.css.map",
+    "main.900afab8.js.map": "/design_project/static/js/main.900afab8.js.map",
+    "787.dd9ad875.chunk.js.map": "/design_project/static/js/787.dd9ad875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c06b3c0.css",
+    "static/js/main.900afab8.js"
+  ]
+}
