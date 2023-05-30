@@ -18,7 +18,10 @@ function Architecture() {
             href=""
           >
             <div className="our-servis-interior1">
-              <img src="images/ere.png" alt="our-servis-interior" />
+              <img
+                src="https://an-pr-ua.github.io/design_project/images/ere.png"
+                alt="our-servis-interior"
+              />
               <div className="our-servis-card-text">
                 <h5>Architecture1</h5>
                 <p>
@@ -34,7 +37,10 @@ function Architecture() {
             href=""
           >
             <div className="our-servis-interior1">
-              <img src="images/ere.png" alt="our-servis-interior" />
+              <img
+                src="https://an-pr-ua.github.io/design_project/images/ere.png"
+                alt="our-servis-interior"
+              />
               <div className="our-servis-card-text">
                 <h5>Architecture2</h5>
                 <p>
@@ -50,7 +56,10 @@ function Architecture() {
             href=""
           >
             <div className="our-servis-interior1">
-              <img src="images/ere.png" alt="our-servis-interior" />
+              <img
+                src="https://an-pr-ua.github.io/design_project/images/ere.png"
+                alt="our-servis-interior"
+              />
               <div className="our-servis-card-text">
                 <h5>Architecture3</h5>
                 <p>
@@ -66,7 +75,10 @@ function Architecture() {
             href=""
           >
             <div className="our-servis-interior1">
-              <img src="images/ere.png" alt="our-servis-interior" />
+              <img
+                src="https://an-pr-ua.github.io/design_project/images/ere.png"
+                alt="our-servis-interior"
+              />
               <div className="our-servis-card-text">
                 <h5>Architecture4</h5>
                 <p>
@@ -84,7 +96,7 @@ function Architecture() {
             <div className="our-servis-interior1">
               <img
                 id="servis-change-style5-img"
-                src="images/ere.png"
+                src="https://an-pr-ua.github.io/design_project/images/ere.png"
                 alt="our-servis-interior"
               />
               <div className="our-servis-card-text">

@@ -13,7 +13,10 @@ function OurServise() {
       <div className="our-servis-icon">
         <a className="our-servis-card" href="">
           <div className="our-servis-interior1">
-            <img src="images/sr.png" alt="our-servis-interior1" />
+            <img
+              src="https://an-pr-ua.github.io/design_project/images/sr.png"
+              alt="our-servis-interior1"
+            />
             <div className="our-servis-card-text">
               <h5>Interior Design1</h5>
               <p>
@@ -25,7 +28,10 @@ function OurServise() {
         </a>
         <a className="our-servis-card invert" href="">
           <div className="our-servis-architecture1">
-            <img src="images/ere.png" alt="our-servis-architecture1" />
+            <img
+              src="https://an-pr-ua.github.io/design_project/images/ere.png"
+              alt="our-servis-architecture1"
+            />
             <div className="our-servis-card-text">
               <h5>Architecture 1</h5>
               <p>
@@ -37,7 +43,10 @@ function OurServise() {
         </a>
         <a className="our-servis-card" href="">
           <div className="our-servis-planning1">
-            <img src="images/sd.png" alt="our-servis-planning1" />
+            <img
+              src="https://an-pr-ua.github.io/design_project/images/sd.png"
+              alt="our-servis-planning1"
+            />
             <div className="our-servis-card-text">
               <h5>Planning 1</h5>
               <p>

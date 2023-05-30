@@ -14,7 +14,10 @@ function Footer() {
       {/* <Scrap/> */}
       <div className="in-footer">
         <div>
-          <img src="images/logo.png" alt="logo" />
+          <img
+            src="https://an-pr-ua.github.io/design_project/images/logo.png"
+            alt="logo"
+          />
           <p>
             But i must explain to you all this mistaken idea of dencouncing
             pleasure.
@@ -48,22 +51,34 @@ function Footer() {
           <div className="all-nets">
             <a href="">
               <div className="sociale-nets">
-                <img src="images/Group 32.png" alt="icon-fas" />
+                <img
+                  src="https://an-pr-ua.github.io/design_project/images/Group 32.png"
+                  alt="icon-fas"
+                />
               </div>
             </a>
             <a href="">
               <div className="sociale-nets">
-                <img src="images/Group 33.png" alt="icon-tw" />
+                <img
+                  src="https://an-pr-ua.github.io/design_project/images/Group 33.png"
+                  alt="icon-tw"
+                />
               </div>
             </a>
             <a href="">
               <div className="sociale-nets">
-                <img src="images/Group 34.png" alt="icon-inst" />
+                <img
+                  src="https://an-pr-ua.github.io/design_project/images/Group 34.png"
+                  alt="icon-inst"
+                />
               </div>
             </a>
             <a href="">
               <div className="sociale-nets">
-                <img src="images/Group 35.png" alt="icon-in" />
+                <img
+                  src="https://an-pr-ua.github.io/design_project/images/Group 35.png"
+                  alt="icon-in"
+                />
               </div>
             </a>
           </div>

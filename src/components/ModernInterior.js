@@ -1,5 +1,3 @@
-
-
 function ModernInterior() {
   return (
     <div className="Moderninterior">
@@ -12,11 +10,14 @@ function ModernInterior() {
           minim veniam, quis nostrud exercitation.
         </p>
         <form action="https://google.com">
-                 <button className="button-contact">CONTACT</button>
+          <button className="button-contact">CONTACT</button>
         </form>
       </div>
       <div className="mainPage-right">
-        <img src="images/Group 63.png" alt="img main page" />
+        <img
+          src="https://an-pr-ua.github.io/design_project/images/Group 63.png"
+          alt="img main page"
+        />
       </div>
     </div>
   );

@@ -161,7 +161,7 @@ function Planning() {
             <div className="our-servis-interior1">
               <img
                 className="servis-change-style1-img"
-                src="images/sd.png"
+                src="https://an-pr-ua.github.io/design_project/images/sd.png"
                 alt="our-servis-interior"
               />
               <div className="our-servis-card-text">
@@ -177,7 +177,7 @@ function Planning() {
             <div className="our-servis-interior1">
               <img
                 className="servis-change-style2-img"
-                src="images/sd.png"
+                src="https://an-pr-ua.github.io/design_project/images/sd.png"
                 alt="our-servis-interior"
               />
               <div className="our-servis-card-text">
@@ -193,7 +193,7 @@ function Planning() {
             <div className="our-servis-interior1">
               <img
                 className="servis-change-style3-img"
-                src="images/sd.png"
+                src="https://an-pr-ua.github.io/design_project/images/sd.png"
                 alt="our-servis-interior"
               />
               <div className="our-servis-card-text">
@@ -209,7 +209,7 @@ function Planning() {
             <div className="our-servis-interior1">
               <img
                 className="servis-change-style4-img"
-                src="images/sd.png"
+                src="https://an-pr-ua.github.io/design_project/images/sd.png"
                 alt="our-servis-interior"
               />
               <div className="our-servis-card-text">
@@ -225,7 +225,7 @@ function Planning() {
             <div className="our-servis-interior1">
               <img
                 className="servis-change-style5-img"
-                src="images/sd.png"
+                src="https://an-pr-ua.github.io/design_project/images/sd.png"
                 alt="our-servis-interior"
               />
               <div className="our-servis-card-text">
@@ -245,7 +245,7 @@ function Planning() {
           <div className="our-servis-interior1">
             <img
               className="servis-change-style1-img"
-              src="images/sd.png"
+              src="https://an-pr-ua.github.io/design_project/images/sd.png"
               alt="our-servis-interior"
             />
             <div className="our-servis-card-text">
@@ -261,7 +261,7 @@ function Planning() {
           <div className="our-servis-interior1">
             <img
               className="servis-change-style2-img"
-              src="images/sd.png"
+              src="https://an-pr-ua.github.io/design_project/images/sd.png"
               alt="our-servis-interior"
             />
             <div className="our-servis-card-text">
@@ -277,7 +277,7 @@ function Planning() {
           <div className="our-servis-interior1">
             <img
               className="servis-change-style3-img"
-              src="images/sd.png"
+              src="https://an-pr-ua.github.io/design_project/images/sd.png"
               alt="our-servis-interior"
             />
             <div className="our-servis-card-text">
@@ -293,7 +293,7 @@ function Planning() {
           <div className="our-servis-interior1">
             <img
               className="servis-change-style4-img"
-              src="images/sd.png"
+              src="https://an-pr-ua.github.io/design_project/images/sd.png"
               alt="our-servis-interior"
             />
             <div className="our-servis-card-text">
@@ -309,7 +309,7 @@ function Planning() {
           <div className="our-servis-interior1">
             <img
               className="servis-change-style5-img"
-              src="images/sd.png"
+              src="https://an-pr-ua.github.io/design_project/images/sd.png"
               alt="our-servis-interior"
             />
             <div className="our-servis-card-text">

@@ -13,21 +13,33 @@ function Completed3000() {
             <p>Projects</p>
           </div>
         </a>
-        <img className="card-3000-vector m-t-2" src="images/Vector 3.png" alt="vector" />
+        <img
+          className="card-3000-vector m-t-2"
+          src="https://an-pr-ua.github.io/design_project/images/Vector 3.png"
+          alt="vector"
+        />
         <a className="a-3000-bottom m-t-2" href="">
           <div className="card-3000">
             <h2>520</h2>
             <p>Happy Clients</p>
           </div>
         </a>
-        <img className="card-3000-vector m-t-2" src="images/Vector 5.png" alt="vector" />
+        <img
+          className="card-3000-vector m-t-2"
+          src="https://an-pr-ua.github.io/design_project/images/Vector 5.png"
+          alt="vector"
+        />
         <a className="a-3000-bottom" href="">
           <div className="card-3000">
             <h2>330</h2>
             <p>Winners</p>
           </div>
         </a>
-        <img className="card-3000-vector m-t-2" src="images/Vector 4.png" alt="vector" />
+        <img
+          className="card-3000-vector m-t-2"
+          src="https://an-pr-ua.github.io/design_project/images/Vector 4.png"
+          alt="vector"
+        />
         <a className="a-3000-bottom m-t-2" href="">
           <div className="card-3000">
             <h2>120</h2>

@@ -30,14 +30,15 @@ function NavBar() {
           console.log(a, "в часы ночь"),
 
           (document.querySelector(".bg-white").style.backgroundImage =
-            'url("/images/796_original.jpg")'),
+            'url("https://an-pr-ua.github.io/design_project/images/796_original.jpg")'),
           (document.getElementById("page5").style.backgroundImage =
-            'url("/images/8efcd7a70a8d624bdf076bfa1cfb6d013d932284.jpeg")'),
+            'url("https://an-pr-ua.github.io/design_project/images/8efcd7a70a8d624bdf076bfa1cfb6d013d932284.jpeg")'),
           (document.querySelector(".page7").style.backgroundImage =
-            'url("/images/8efcd7a70a8d624bdf076bfa1cfb6d013d932284.jpeg")'),
+            'url("https://an-pr-ua.github.io/design_project/images/8efcd7a70a8d624bdf076bfa1cfb6d013d932284.jpeg")'),
           (document.querySelector(".Footer").style.backgroundImage =
-            'url("/images/796_original.jpg")'),
-          (document.body.style = 'background: url("/images/Oregon_15.jpg")'),
+            'url("https://an-pr-ua.github.io/design_project/images/796_original.jpg")'),
+          (document.body.style =
+            'background: url("https://an-pr-ua.github.io/design_project/images/Oregon_15.jpg")'),
           (document.querySelector("hr").style.color = "#7d7d7d"),
           Array.from(document.getElementsByClassName("button-contact")).forEach(
             (e) => (e.style.color = "#646464")
@@ -75,10 +76,11 @@ function NavBar() {
           console.log(a, "в часы ночь"),
 
           (document.querySelector(".bg-white").style.backgroundImage =
-            'url("/images/796_original.jpg")'),
+            'url("https://an-pr-ua.github.io/design_project/images/796_original.jpg")'),
           (document.querySelector(".Footer").style.backgroundImage =
-            'url("/images/796_original.jpg")'),
-          (document.body.style = 'background: url("/images/Oregon_15.jpg")'),
+            'url("https://an-pr-ua.github.io/design_project/images/796_original.jpg")'),
+          (document.body.style =
+            'background: url("https://an-pr-ua.github.io/design_project/images/Oregon_15.jpg")'),
           Array.from(document.getElementsByClassName("button-contact")).forEach(
             (e) => (e.style.color = "#646464")
           ),
@@ -116,18 +118,21 @@ function NavBar() {
 
     if (i === 1) {
       a = true;
-      document.querySelector("#btn-day-night").src = "images/moon.png";
+      document.querySelector("#btn-day-night").src =
+        "https://an-pr-ua.github.io/design_project/images/moon.png";
       console.log(i, a);
 
       return i, a, bgHors();
     } else if (i === 2) {
       a = false;
-      document.querySelector("#btn-day-night").src = "images/sun.png";
+      document.querySelector("#btn-day-night").src =
+        "https://an-pr-ua.github.io/design_project/images/sun.png";
       console.log(i, a);
       return i, a, bgHors();
     } else if (i === 3) {
       i = 0;
-      document.querySelector("#btn-day-night").src = "images/click.png";
+      document.querySelector("#btn-day-night").src =
+        "https://an-pr-ua.github.io/design_project/images/click.png";
       console.log(i, a);
       return i, a, autoBgHours();
     }
@@ -138,7 +143,10 @@ function NavBar() {
       <Navbar className="Navbar" bg="white" variant="light">
         <Container>
           <Navbar.Brand as={Link} to="/">
-            <img src="images/logo.png" alt="logo" />
+            <img
+              src="https://an-pr-ua.github.io/design_project/images/logo.png"
+              alt="logo"
+            />
           </Navbar.Brand>
           <Nav className="ms-auto">
             <Nav.Link as={Link} to="/" className="me-1 bt-hr" href="">
@@ -175,13 +183,17 @@ function NavBar() {
           <Nav.Link className="me-1" href="/sign up">
             <img
               className="sign-up"
-              src="images/Group 37.png"
+              src="https://an-pr-ua.github.io/design_project/images/Group 37.png"
               alt="button-navbar"
             />
           </Nav.Link>
         </Container>
         <button className="button-contact1" type="submit" onClick={funclick}>
-          <img id="btn-day-night" src="images/click.png" alt="day/night" />
+          <img
+            id="btn-day-night"
+            src="https://an-pr-ua.github.io/design_project/images/click.png"
+            alt="day/night"
+          />
         </button>
         <Scrap />
       </Navbar>
