@@ -142,7 +142,7 @@ function NavBar() {
     <>
       <Navbar className="Navbar" bg="white" variant="light">
         <Container>
-          <Navbar.Brand as={Link} to="/">
+          <Navbar.Brand as={Link} to="/design_project">
             <img
               src="https://an-pr-ua.github.io/design_project/images/logo.png"
               alt="logo"

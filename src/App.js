@@ -22,7 +22,7 @@ function App() {
     <BrowserRouter>
       <NavBar />
       <Routes>
-        <Route path="/" element={<MainPage />} />
+        <Route path="/design_project" element={<MainPage />} />
         <Route>
           <Route path="/interiordesign" element={<InteriorDesign />} />
           <Route path="/architecture" element={<Architecture />} />
