@@ -180,7 +180,7 @@ function NavBar() {
               CONTACT
             </Nav.Link>
           </Nav>
-          <Nav.Link className="me-1" href="/sign up">
+          <Nav.Link className="me-1" href=" ">
             <img
               className="sign-up"
               src="https://an-pr-ua.github.io/design_project/images/Group 37.png"
