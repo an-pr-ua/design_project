@@ -115,7 +115,9 @@ function NavBar() {
 
   let funclick = function () {
     i = i + 1;
-
+    alert(
+      "In the 'Our Service' section, the items 'ALL','INTERIOR DESIGN,'ARCHITECTURE,'PLANING' have animation at the customer's choice. Click on each of these links and make your choice."
+    );
     if (i === 1) {
       a = true;
       document.querySelector("#btn-day-night").src =
@@ -136,8 +138,6 @@ function NavBar() {
       console.log(i, a);
       return i, a, autoBgHours();
     }
-
-    alert("111111111");
   };
 
   return (
