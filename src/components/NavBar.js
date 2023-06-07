@@ -136,6 +136,8 @@ function NavBar() {
       console.log(i, a);
       return i, a, autoBgHours();
     }
+
+    alert("111111111");
   };
 
   return (
